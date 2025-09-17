@@ -1,0 +1,11 @@
+Date,Region,Category,Product,Sales,Quantity
+2024-01-15,North,Electronics,Laptop,1200,1
+2024-01-16,South,Clothing,T-Shirt,25,3
+2024-01-17,East,Electronics,Phone,800,1
+2024-01-18,West,Books,Novel,15,2
+2024-01-20,North,Electronics,Tablet,500,1
+2024-01-22,South,Clothing,Jeans,60,1
+2024-01-25,East,Books,Textbook,80,1
+2024-01-28,West,Electronics,Headphones,150,2
+2024-02-01,North,Clothing,Jacket,120,1
+2024-02-03,South,Electronics,Camera,900,1
